@@ -1,4 +1,4 @@
-name: CICDDEMO1
+name: CICDDEMO2
 on:
   push:
     branches: [ "main" ]
